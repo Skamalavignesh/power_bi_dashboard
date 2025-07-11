@@ -1,5 +1,5 @@
 # 📊 Data Jobs Dashboard W/ POWER BI
-![Datadashboad page-1](/project%20image%20pg-1.png)
+![Datadashboad page-1](/images/project%20image%20pg-1.png)
 
 ## 🧾 Introduction
 
