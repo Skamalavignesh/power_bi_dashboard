@@ -1,3 +1,6 @@
+# vs code settings 
+.vscode/
+
 # Python cache
 _pycache_/
 *.pyc
