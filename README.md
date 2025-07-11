@@ -63,7 +63,7 @@ This dashboard demonstrates a variety of skills and techniques in data analysis 
 
 ### 📄 Page 1: High Level Marke View
 
-![Datadashboad page-1](/project%20image%20pg-1.png)
+![Datadashboad page-1](/images/project%20image%20pg-1.png)
 
 This page provides a **high-level overview** of the entire job market for data-related roles.
 
@@ -79,7 +79,7 @@ This page provides a **high-level overview** of the entire job market for data-r
 
 ### 📄 Page 2: Job Title Drill-through – Data Engineer
 
-![Datadashboad page-1](/project%201%20pg-2.png)
+![Datadashboad page-1](/images/project%201%20pg-2.png)
 
 This page allows users to drill down into a specific role (Data Engineer shown as example).
 
