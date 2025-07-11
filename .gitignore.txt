@@ -1,0 +1,22 @@
+# Python cache
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Conda/Spyder/Logs
+*.log
+.spyder*
+*.bak
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
